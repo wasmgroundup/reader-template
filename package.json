@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "devDependencies": {
+    "ohm-js": "^17.1.0"
+  }
+}
