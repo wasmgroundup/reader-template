@@ -18,4 +18,6 @@ function makeTestFn(url) {
   };
 }
 
+const test = makeTestFn(import.meta.url);
+
 // Your code goes here.
