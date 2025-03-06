@@ -1,6 +1,6 @@
 # 🧱 WebAssembly from the Ground Up
 
-_(From the book [WebAssembly from the Ground Up](https://wasmgroundup.com) — learn Wasm by building a simple compiler.)_
+_(From the book [WebAssembly from the Ground Up](https://wasmgroundup.com) — learn Wasm by building a simple compiler in JavaScript.)_
 
 Welcome! We've initialized a new project template for you. You can copy the
 code from the book into the files in the root directory.
